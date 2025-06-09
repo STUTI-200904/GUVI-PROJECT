@@ -1,0 +1,9 @@
+air-quality-analysis/
+├── data/
+│   └── city_day.csv
+├── notebooks/
+│   └── air quality analysis.ipynb
+│   └── eda and visualizations(1).ipynb
+├── presentation/
+│   └──Presentation.pdf
+├── README.md
